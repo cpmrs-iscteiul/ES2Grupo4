@@ -1,0 +1,33 @@
+1 *+*+*+* Verificar se consegue fazer uma pesquisa no google e se tem a palavra que esta no conteudo
+http://www.google.com
+Engenharia Software 2 Iscte
+2 *+*+*+* verificar se o livro que está na lista de compras
+https://www.wook.pt/Listacompras
+es2.selenium@gmail.com
+iscte1234
+Bloco de Jogos e Atividades - 4/5 Anos
+3 *+*+*+* verificar o login
+https://www.wook.pt/Login
+es2.selenium@gmail.com
+iscte1234ppppppppppppppppp
+4 *+*+*+* verificar se consgio escrever e ler
+http://www.hivemq.com/demos/websocket-client/
+/sid_lab_2019_2
+/sid_lab_2019_2
+{ola}
+5 *+*+*+* verificar se existe estes topicos
+https://www.guru99.com/selenium-tutorial.html
+DevOps
+DBMS
+Software Engineering
+LIVE Project
+6 *+*+*+* verificar se consegue fazer upload
+http://demo.guru99.com/test/upload/
+C:\\Users\\Eduardo\\Desktop\\Projecto_web\\index.html
+7 *+*+*+* dados gmail
+https://accounts.google.com/
+es2.selenium@gmail.com
+iscte1234
+edu.correia17@gmail.com
+8 *+*+*+*
+
